@@ -8,7 +8,7 @@ And I am a Full-Stack Web and App Developer, Video Editor, Programmer, Gamer, an
 * ✉️  You can contact me at [sachindd@iitk.ac.in](mailto:sachindd@iitk.ac.in)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Webdev Projects
-* ⚡  I also like playing Valorant in free time, ID : Dark Devil #LMAO
+* ⚡  I also like playing Valorant in free time, ID : Dark Devil #OMEN
 
 ### Skills
 
